@@ -1,6 +1,7 @@
 *.pro.user*
 *.qmlproject.user*
 *.qm
+.qmake.stash
 Makefile
 bin/*
 build/*
